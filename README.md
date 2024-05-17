@@ -5,11 +5,12 @@
 </p>
 
 <div align="center">
-  
-Sou Estudante do curso de ADS
 
-Também estou estudando Java, Typescript, Angular e MySQL
+ 
+Estudante do curso de ADS
 
-E sou um entusiasta de tecnologia
+Aprendendo Java, Typescript, Angular e MySQL
+
+E um entusiasta de tecnologia!!!
 
 
