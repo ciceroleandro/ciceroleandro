@@ -23,7 +23,7 @@ E um entusiasta de tecnologia!!!
   <p></p>
   <div align="center"> 
   
-  <a href = "mailto:ciceroleandro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "mailto:ciceroleandro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a>
   <a href="https://www.linkedin.com/in/leandrosilva1808/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
    
  
