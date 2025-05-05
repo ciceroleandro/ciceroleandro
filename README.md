@@ -41,7 +41,7 @@
 
 <p align="center">
   <em>"Clean code is like good coffee: simple, strong, and not too sweet!"</em><br>
-  <strong>Só vamos...</strong>
+  <strong>Just Go...</strong>
 </p>
 
 
