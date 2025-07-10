@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  I'm focused on turning ideas into real solutions.<br><br>
+  Turning ideas into real solutions.<br><br>
   Systems Analysis and Development Student:<br>
   Learning Java, Python and MySQL.
 </div>
