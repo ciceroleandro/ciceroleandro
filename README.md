@@ -1,9 +1,9 @@
 <p align="center">
-  Hello world! I'm Leandro Silva!
+  Hello world! I'm Leandro Silva.
 </p>
 
 <div align="center">
-  Turning ideas into real solutions.<br><br>
+  Turning ideas into real solutions!<br><br>
   Systems Analysis and Development Student:<br>
   Learning Java, Python and MySQL.
 </div>
