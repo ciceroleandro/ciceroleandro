@@ -44,10 +44,10 @@ My main interests include:
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Java"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Spring Boot"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="40" height="40" alt="MySQL"/>
+  <img src="https://shields.io" alt="Java"/>&nbsp;&nbsp;
+  <img src="https://shields.io" alt="Spring Boot"/>&nbsp;&nbsp;
+  <img src="https://shields.io" alt="Python"/>&nbsp;&nbsp;
+  <img src="https://shields.io" alt="MySQL"/>
 </p>
 
 <p align="center">
@@ -59,8 +59,12 @@ My main interests include:
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:ciceroleandro@gmail.com"><img src="https://jsdelivr.net" width="35" height="35" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com"><img src="https://jsdelivr.net" width="35" height="35" alt="LinkedIn"/></a>
+  <a href="mailto:ciceroleandro@gmail.com" target="_blank">
+    <img src="https://shields.io" alt="Gmail"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn"/>
+  </a>
 </p>
 
 <p align="center">
