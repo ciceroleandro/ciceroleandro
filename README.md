@@ -24,7 +24,6 @@ I'm currently expanding my expertise in **Systems Analysis and Software Developm
 - 📊 Power BI
 - 🔄 Power Query
 - ⚡ VBA & Power Automate
-- 🔌 REST APIs
 - 🧩 Object-Oriented Programming
 
 ### 💡 What I Like to Build
