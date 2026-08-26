@@ -16,7 +16,7 @@ I'm a professional with 20+ years of experience in **International Logistics, Fo
 
 Throughout my career, I've combined business knowledge with technology to transform manual processes into more efficient, standardized and productive solutions.
 
-I'm currently expanding my expertise in **Systems Analysis and Software Development**, with a focus on:
+I'm currently expanding my expertise in **Software Development and Systems Analysis**, focusing on:
 
 - ☕ Java & Spring Boot
 - 🐍 Python
@@ -24,7 +24,7 @@ I'm currently expanding my expertise in **Systems Analysis and Software Developm
 - 📊 Power BI
 - 🔄 Power Query
 - ⚡ VBA & Power Automate
-- 🔌 REST APIs
+- 🌐 REST APIs
 - 🧩 Object-Oriented Programming
 
 ### 💡 What I Like to Build
@@ -39,15 +39,18 @@ My main interests include:
 - Process Improvement
 - Software Development
 - Systems Analysis
-- Business Process Optimization
+- Integration between business processes and technology
 
 ### 🛠️ Technologies & Tools
 
 <p align="center">
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot"/>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring"/>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/>
 </p>
 
 <p align="center">
@@ -58,10 +61,13 @@ My main interests include:
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ciceroleandro&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Leandro's GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceroleandro&layout=compact&langs_count=6&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
-</p>
+<div align="center">
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ciceroleandro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceroleandro&layout=compact&langs_count=8&theme=dark"/>
+
+</div>
 
 ---
 
@@ -69,11 +75,11 @@ My main interests include:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leandrosilva1808/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="35" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:ciceroleandro@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="35" alt="Email"/>
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="35" alt="Email"/>
   </a>
 </p>
 
