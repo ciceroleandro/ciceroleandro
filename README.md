@@ -44,10 +44,10 @@ My main interests include:
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img height="40" width="40" src="https://githubusercontent.com" alt="Java"/>&nbsp;&nbsp;
-  <img height="40" width="40" src="https://githubusercontent.com" alt="Spring Boot"/>&nbsp;&nbsp;
-  <img height="40" width="40" src="https://githubusercontent.com" alt="Python"/>&nbsp;&nbsp;
-  <img height="40" width="40" src="https://githubusercontent.com" alt="MySQL"/>
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Java"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Spring Boot"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="40" height="40" alt="MySQL"/>
 </p>
 
 <p align="center">
@@ -59,9 +59,8 @@ My main interests include:
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:ciceroleandro@gmail.com"><img src="https://gstatic.com" width="35" alt="Gmail"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com"><img src="https://jsdelivr.net" width="35" alt="LinkedIn"/></a>
+  <a href="mailto:ciceroleandro@gmail.com"><img src="https://jsdelivr.net" width="35" height="35" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com"><img src="https://jsdelivr.net" width="35" height="35" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
