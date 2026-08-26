@@ -43,6 +43,8 @@ My main interests include:
 
 ### 🛠️ Technologies & Tools
 
+### 🛠️ Technologies & Tools
+
 <p align="center">
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot"/>
@@ -51,7 +53,13 @@ My main interests include:
 </p>
 
 <p align="center">
-  <strong>VBA • Power Automate • Power Query • Power BI • Git • GitHub • REST APIs</strong>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/visualbasic" alt="VBA"/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/microsoftpowerautomate" alt="Power Automate"/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/powerbi" alt="Power BI"/>
+</p>
+
+<p align="center">
+  <strong>VBA • Power Automate • Power Query • Power BI</strong>
 </p>
 
 ---
