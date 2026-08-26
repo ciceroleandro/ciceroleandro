@@ -44,9 +44,9 @@ My main interests include:
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img height="40" width="40" src="https://githubusercontent.com" alt="Java"/>
-  <img height="40" width="40" src="https://githubusercontent.com" alt="Spring Boot"/>
-  <img height="40" width="40" src="https://githubusercontent.com" alt="Python"/>
+  <img height="40" width="40" src="https://githubusercontent.com" alt="Java"/>&nbsp;&nbsp;
+  <img height="40" width="40" src="https://githubusercontent.com" alt="Spring Boot"/>&nbsp;&nbsp;
+  <img height="40" width="40" src="https://githubusercontent.com" alt="Python"/>&nbsp;&nbsp;
   <img height="40" width="40" src="https://githubusercontent.com" alt="MySQL"/>
 </p>
 
@@ -59,12 +59,9 @@ My main interests include:
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:ciceroleandro@gmail.com">
-    <img src="https://gstatic.com" width="35" alt="Gmail" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://jsdelivr.net" width="35" alt="LinkedIn"/>
-  </a>
+  <a href="mailto:ciceroleandro@gmail.com"><img src="https://gstatic.com" width="35" alt="Gmail"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com"><img src="https://jsdelivr.net" width="35" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
