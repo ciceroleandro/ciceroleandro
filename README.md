@@ -16,7 +16,7 @@ I'm a professional with 20+ years of experience in **International Logistics, Fo
 
 Throughout my career, I've combined business knowledge with technology to transform manual processes into more efficient, standardized and productive solutions.
 
-I'm currently expanding my expertise in **Software Development and Systems Analysis**, focusing on:
+I'm currently expanding my expertise in **Systems Analysis and Software Development**, with a focus on:
 
 - ☕ Java & Spring Boot
 - 🐍 Python
@@ -24,7 +24,7 @@ I'm currently expanding my expertise in **Software Development and Systems Analy
 - 📊 Power BI
 - 🔄 Power Query
 - ⚡ VBA & Power Automate
-- 🌐 REST APIs
+- 🔌 REST APIs
 - 🧩 Object-Oriented Programming
 
 ### 💡 What I Like to Build
@@ -39,35 +39,20 @@ My main interests include:
 - Process Improvement
 - Software Development
 - Systems Analysis
-- Integration between business processes and technology
+- Business Process Optimization
 
 ### 🛠️ Technologies & Tools
 
 <p align="center">
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring"/>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot"/>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/>
 </p>
 
 <p align="center">
   <strong>VBA • Power Automate • Power Query • Power BI • Git • GitHub • REST APIs</strong>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ciceroleandro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceroleandro&layout=compact&langs_count=8&theme=dark"/>
-
-</div>
 
 ---
 
@@ -77,7 +62,7 @@ My main interests include:
   <a href="https://www.linkedin.com/in/leandrosilva1808/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:ciceroleandro@gmail.com">
     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="35" alt="Email"/>
   </a>
