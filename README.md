@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I'm a professional with 20+ years of experience in **International Logistics, Foreign Trade and Operations**, with a strong focus on **process improvement, automation and operational efficiency**.
+I'm a professional with 24+ years of experience in **International Logistics, Foreign Trade and Operations**, with a strong focus on **process improvement, automation and operational efficiency**.
 
 Throughout my career, I've combined business knowledge with technology to transform manual processes into more efficient, standardized and productive solutions.
 
