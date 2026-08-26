@@ -56,15 +56,6 @@ My main interests include:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ciceroleandro&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Leandro's GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceroleandro&layout=compact&langs_count=6&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
-</p>
-
----
-
 ### 📫 Let's Connect
 
 
