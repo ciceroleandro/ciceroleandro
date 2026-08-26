@@ -59,13 +59,7 @@ My main interests include:
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leandrosilva1808/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ciceroleandro@gmail.com">
-    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="35" alt="Email"/>
-  </a>
+  <a href="https://www.linkedin.com/in/leandrosilva1808/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:ciceroleandro@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="35" alt="Email"/></a>
 </p>
 
 <p align="center">
