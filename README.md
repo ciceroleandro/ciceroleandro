@@ -48,10 +48,9 @@ My main interests include:
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot"/>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/>
-  <img height="40" width="40" src="https://cdn.simpleicons.org/visualbasic" alt="VBA"/>
-  <img height="40" width="40" src="https://cdn.simpleicons.org/microsoftpowerautomate" alt="Power Automate"/>
-  <img height="40" width="40" src="https://cdn.simpleicons.org/powerbi" alt="Power BI"/>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" alt="VBA"/>
 </p>
+
 
 ---
 
