@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I'm a professional with 24+ years of experience in **International Logistics, Foreign Trade and Operations**, with a strong focus on **process improvement, automation and operational efficiency**.
+I'm a professional with 20+ years of experience in **International Logistics, Foreign Trade and Operations**, with a strong focus on **process improvement, automation and operational efficiency**.
 
 Throughout my career, I've combined business knowledge with technology to transform manual processes into more efficient, standardized and productive solutions.
 
@@ -44,10 +44,10 @@ My main interests include:
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://shields.io" alt="Java"/>&nbsp;&nbsp;
-  <img src="https://shields.io" alt="Spring Boot"/>&nbsp;&nbsp;
-  <img src="https://shields.io" alt="Python"/>&nbsp;&nbsp;
-  <img src="https://shields.io" alt="MySQL"/>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot"/>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/>
 </p>
 
 <p align="center">
@@ -56,14 +56,24 @@ My main interests include:
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ciceroleandro&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Leandro's GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceroleandro&layout=compact&langs_count=6&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+</p>
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:ciceroleandro@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Gmail"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/leandrosilva1808/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="35" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ciceroleandro@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="35" alt="Email"/>
   </a>
 </p>
 
