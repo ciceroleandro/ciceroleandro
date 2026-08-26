@@ -44,10 +44,10 @@ My main interests include:
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot"/>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  <img height="40" width="40" src="https://githubusercontent.com" alt="Java"/>
+  <img height="40" width="40" src="https://githubusercontent.com" alt="Spring Boot"/>
+  <img height="40" width="40" src="https://githubusercontent.com" alt="Python"/>
+  <img height="40" width="40" src="https://githubusercontent.com" alt="MySQL"/>
 </p>
 
 <p align="center">
@@ -58,14 +58,12 @@ My main interests include:
 
 ### 📫 Let's Connect
 
-
 <p align="center">
   <a href="mailto:ciceroleandro@gmail.com">
-    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="35" alt="Gmail"/>
+    <img src="https://gstatic.com" width="35" alt="Gmail" style="margin-right: 20px;"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/leandrosilva1808/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
+  <a href="https://linkedin.com">
+    <img src="https://jsdelivr.net" width="35" alt="LinkedIn"/>
   </a>
 </p>
 
